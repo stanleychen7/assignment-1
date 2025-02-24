@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/stanleychen/Downloads/H2_skeleton_code_Makefile",
+      "program": "/Users/stanleychen/Downloads/H2_skeleton_code_Makefile/build/Debug/outDebug"
+    }
+  ]
+}
