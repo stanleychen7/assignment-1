@@ -1,5 +1,5 @@
 # Assignment 1 - Zoo
-Name: Stanley Chen
+Name: Stanley Chen </br>
 Github Username: stanleychen7
 
 # Link 
